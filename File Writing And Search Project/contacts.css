@@ -1,0 +1,16 @@
+.h1{
+    font-family: sans-serif;
+    background-color: yellow;
+    border: outset yellow;
+    text-align: center;
+}
+
+.h2{
+    font-family: sans-serif;
+    background-color: green;
+    border: outset green;
+}
+
+.body{
+    background-color: background;
+}
