@@ -1,0 +1,17 @@
+h1{
+    font-family: sans-serif;
+}
+
+body{
+    background-color: lightseagreen;
+}
+
+h2{
+    font-family: monospace;
+    font-size: 35px;
+    text-align: center;
+}
+
+hr{
+    border-style: solid;
+}
